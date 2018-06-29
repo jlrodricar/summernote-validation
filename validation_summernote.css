@@ -1,0 +1,5 @@
+div.note-editor.note-frame.card.werror {
+    border: red 1px solid;
+    color: red !important;
+    box-shadow: red 0px 0px 3px 0px;
+}
